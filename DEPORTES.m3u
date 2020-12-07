@@ -1,338 +1,207 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://cdn.cablefax.com/wp-content/uploads/2014/05/Bein-Sports-SPA-logo-color-hires-1.jpg" group-title="• LATINO DEPORTES •", LD - BEIN SPORTS HD
-http://tv.nousiptv.com:25462/Omy/1234/3747
-
-#EXTINF:-1 tvg-logo="https://www.reporterosasociados.com.co/wp/wp-content/uploads/2019/01/DIRECTV-Sports.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS HD
-http://tv.nousiptv.com:25462/Omy/1234/7863
-
-#EXTINF:-1 tvg-logo="https://www.reporterosasociados.com.co/wp/wp-content/uploads/2019/01/DIRECTV-Sports.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS
-http://tv.nousiptv.com:25462/Omy/1234/33512
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS 2 HD
-http://tv.nousiptv.com:25462/Omy/1234/32882
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS 2
-http://tv.nousiptv.com:25462/Omy/1234/32881
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS PLUS HD
-http://tv.nousiptv.com:25462/Omy/1234/27879
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="• LATINO DEPORTES •", LD - DIRECTV SPORTS PLUS
-http://tv.nousiptv.com:25462/Omy/1234/8520
-
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/LOGO-DEPORTES-1040x585-480x480.jpg" group-title="• LATINO DEPORTES •", LD - FOX DEPORTES USA HD
-http://tv.nousiptv.com:25462/Omy/1234/3753
-
-#EXTINF:-1 tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 1 SUR HD
-http://tv.nousiptv.com:25462/Omy/1234/3612
-
-#EXTINF:-1 tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 1 SUR
-http://tv.nousiptv.com:25462/Omy/1234/18580
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5c/Fox_Sports_2_HD_logo.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 2 SUR HD
-http://tv.nousiptv.com:25462/Omy/1234/16139
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5c/Fox_Sports_2_HD_logo.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 2 SUR SD
-http://tv.nousiptv.com:25462/Omy/1234/42456
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 3 SUR HD
-http://tv.nousiptv.com:25462/Omy/1234/33475
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 3 SUR SD
-http://tv.nousiptv.com:25462/Omy/1234/43640
-
-#EXTINF:-1 tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS MX
-http://tv.nousiptv.com:25462/Omy/1234/3267
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5c/Fox_Sports_2_HD_logo.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 2 MX
-http://tv.nousiptv.com:25462/Omy/1234/3268
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png" group-title="• LATINO DEPORTES •", LD - FOX SPORTS 3 MX
-http://tv.nousiptv.com:25462/Omy/1234/4008
-
-#EXTINF:-1 tvg-logo="https://futbol.radioformula.com.mx/wp-content/uploads/2019/06/Logo-ESPN-1.png" group-title="• LATINO DEPORTES •", LD - ESPN DEPORTES HD
-http://tv.nousiptv.com:25462/Omy/1234/3613
-
-#EXTINF:-1 tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="• LATINO DEPORTES •", LD - ESPN 1 SUR HD
-http://tv.nousiptv.com:25462/Omy/1234/3614
-
-#EXTINF:-1 tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="• LATINO DEPORTES •", LD - ESPN 1 SUR SD
-http://tv.nousiptv.com:25462/Omy/1234/33469
-
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="• LATINO DEPORTES •", LD - ESPN 2 SUR HD
-http://tv.nousiptv.com:25462/Omy/1234/43637
-
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="• LATINO DEPORTES •", LD - ESPN 2 SUR SD
-http://tv.nousiptv.com:25462/Omy/1234/3616
-
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn3.png" group-title="• LATINO DEPORTES •", LD - ESPN 3 SUR HD
-http://tv.nousiptv.com:25462/Omy/1234/3615
-
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn3.png" group-title="• LATINO DEPORTES •", LD - ESPN 3 SUR SD
-http://tv.nousiptv.com:25462/Omy/1234/43639
-
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" group-title="• LATINO DEPORTES •", LD - ESPN PLUS SUR FHD
-http://tv.nousiptv.com:25462/Omy/1234/7940
-
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" group-title="• LATINO DEPORTES •", LD - ESPN PLUS SUR SD
-http://tv.nousiptv.com:25462/Omy/1234/43638
-
-#EXTINF:-1 tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="• LATINO DEPORTES •", LD - ESPN MX
-http://tv.nousiptv.com:25462/Omy/1234/3178
-
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/7617/64eaua60jei8k3pzg.jpg" group-title="• LATINO DEPORTES •", LD - ESPN 2 MX
-http://tv.nousiptv.com:25462/Omy/1234/3258
-
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/d823/mp5467d3i5iq4n4zg.jpg" group-title="• LATINO DEPORTES •", LD - ESPN 3 MX
-http://tv.nousiptv.com:25462/Omy/1234/3260
-
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" group-title="• LATINO DEPORTES •", LD - ESPN PLUS MX
-http://tv.nousiptv.com:25462/Omy/1234/4120
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" group-title="• LATINO DEPORTES •", LD - UNIVISION TUDN USA
-http://tv.nousiptv.com:25462/Omy/1234/3751
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" group-title="• LATINO DEPORTES •", LD - UNIVISION DEPORTES FHD
-http://tv.nousiptv.com:25462/Omy/1234/3962
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" group-title="• LATINO DEPORTES •", LD - UNIVISION TUDN HD
-http://tv.nousiptv.com:25462/Omy/1234/4117
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" group-title="• LATINO DEPORTES •", LD - TUDN FHD
-http://tv.nousiptv.com:25462/Omy/1234/3963
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D_XydwSW4AAjU6l.jpg" group-title="• LATINO DEPORTES •", LD - TYC SPORTS HD
-http://tv.nousiptv.com:25462/Omy/1234/3759
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D_XydwSW4AAjU6l.jpg" group-title="• LATINO DEPORTES •", LD - TYC SPORTS
-http://tv.nousiptv.com:25462/Omy/1234/8247
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/GOLTV_Two.png" group-title="• LATINO DEPORTES •", LD - GOL TV HD
-http://tv.nousiptv.com:25462/Omy/1234/3755
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="• LATINO DEPORTES •", LD - CLARO SPORTS HD
-http://tv.nousiptv.com:25462/Omy/1234/12011
-
-#EXTINF:-1 tvg-logo="https://www.sportstravelmagazine.com/wp-content/uploads/2017/03/UFC-LOGO.png" group-title="• LATINO DEPORTES •", LD - UFC  NETWORK FHD
-http://tv.nousiptv.com:25462/Omy/1234/4082
-
-#EXTINF:-1 tvg-logo="http://www.acessoriosparaautos.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/l/pl5288_1_5.jpg" group-title="• LATINO DEPORTES •", LD - UFC FIGHT LATINOAMERICA
-http://tv.nousiptv.com:25462/Omy/1234/3421
-
-#EXTINF:-1 tvg-logo="https://images.mediapro.es/imagina_us/custom/block/Golf_Channel_Logo_web2.png" group-title="• LATINO DEPORTES •", LD - GOLF LATIN AMERICA
-http://tv.nousiptv.com:25462/Omy/1234/33363
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/574737723/logook_400x400.jpg" group-title="• LATINO DEPORTES •", LD - AYM SPORTS
-http://tv.nousiptv.com:25462/Omy/1234/3089
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_%282016-_%29.png" group-title="• LATINO DEPORTES •", LD - TVC DEPORTES
-
-#EXTINF:-1,DEPORTES: ARG Espn + (e)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/974
-
-#EXTINF:-1,DEPORTES: ARG Espn + (M)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1543
-
-#EXTINF:-1,DEPORTES: ARG Espn 1 (e)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/965
-
-#EXTINF:-1,DEPORTES: ARG Espn 1 (e)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/966
-
-#EXTINF:-1,DEPORTES: ARG Espn 2 (e)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/968
-
-#EXTINF:-1,DEPORTES: ARG Espn 2 (e)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/969
-
-#EXTINF:-1,DEPORTES: ARG Espn 2 (M)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1541
-
-#EXTINF:-1,DEPORTES: ARG Espn 3 (M)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/63209
-
-#EXTINF:-1,DEPORTES: ARG Espn 3 (tr)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1542
-
-#EXTINF:-1,DEPORTES: ARG Fox Sports  1 (e)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/976
-
-#EXTINF:-1,DEPORTES: ARG Fox Sports  1 (e)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/977
-
-#EXTINF:-1,DEPORTES: ARG Fox Sports 1 (M)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1525
-
-#EXTINF:-1,DEPORTES: ARG Fox Sports 2 (e)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/979
-
-#EXTINF:-1,DEPORTES: ARG Fox Sports 2 (e)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/980
-
-#EXTINF:-1,DEPORTES: ARG Fox Sports 2 (M)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1526
-
-#EXTINF:-1,DEPORTES: ARG Fox Sports 3 (e)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/982
-
-#EXTINF:-1,DEPORTES: ARG Fox Sports 3 (e)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/63210
-
-#EXTINF:-1,DEPORTES: ARG Fox Sports 3 (M)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1527
-
-#EXTINF:-1,DEPORTES: ARG Fox Sports Premium (M)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1528
-
-#EXTINF:-1,DEPORTES: ARG Fox Sports Premium (M)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1529
-
-#EXTINF:-1,DEPORTES: ARG TyC Sports (M)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/2076
-
-#EXTINF:-1,DEPORTES: Sport U (M)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/2876
-
-#EXTINF:-1,DEPORTES: Sports U (TV)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/59426
-
-#EXTINF:-1,DEPORTES: Sports Ñ (M)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/2872
-
-#EXTINF:-1,DEPORTES: Directv Sports + (e)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/963
-
-#EXTINF:-1,DEPORTES: Directv Sports + (e)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/20143
-
-#EXTINF:-1,DEPORTES: Directv Sports + (M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/4673
-
-#EXTINF:-1,DEPORTES: Directv Sports + (M)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/4674
-
-#EXTINF:-1,DEPORTES: Directv Sports 1 (e)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/956
-
-#EXTINF:-1,DEPORTES: Directv Sports 1 (e)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/957
-
-#EXTINF:-1,DEPORTES: Directv Sports 1 (M)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/4668
-
-#EXTINF:-1,DEPORTES: Directv Sports 1 (M)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/4670
-
-#EXTINF:-1,DEPORTES: Directv Sports 2 (e)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/960
-
-#EXTINF:-1,DEPORTES: Directv Sports 2 (e)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/961
-
-#EXTINF:-1,DEPORTES: Directv Sports 2 (M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/4672
-
-#EXTINF:-1,DEPORTES: Espn Deportes (tr)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/63682
-
-#EXTINF:-1,DEPORTES: Espn Deportes (tr)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1544
-
-#EXTINF:-1,DEPORTES: Fight BOX U (tr)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/60375
-
-#EXTINF:-1,DEPORTES: Fox Deportes (M)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1524
-
-#EXTINF:-1,DEPORTES: Golf Latin America (M)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/26767
-
-#EXTINF:-1,DEPORTES: MEX Afizzionados (TV)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/54813
-
-#EXTINF:-1,DEPORTES: MEX ESPN (M)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/26817
-
-#EXTINF:-1,DEPORTES: MEX Espn (tr)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1533
-
-#EXTINF:-1,DEPORTES: MEX ESPN + (M)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/26810
-
-#EXTINF:-1,DEPORTES: MEX Espn 2 (M)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/26770
-
-#EXTINF:-1,DEPORTES: MEX Espn 2 (tr)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1534
-
-#EXTINF:-1,DEPORTES: MEX Espn 3 (M)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1536
-
-#EXTINF:-1,DEPORTES: MEX Espn 3 (M)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/26771
-
-#EXTINF:-1,DEPORTES: MEX Espn 3 (M)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1537
-
-#EXTINF:-1,DEPORTES: MEX ESPN U (M)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/26816
-
-#EXTINF:-1,DEPORTES: MEX Fox Sports 1 (M)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/26814
-
-#EXTINF:-1,DEPORTES: MEX Fox Sports 1 (M)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/26769
-
-#EXTINF:-1,DEPORTES: MEX Fox Sports 1 (M)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1519
-
-#EXTINF:-1,DEPORTES: MEX Fox Sports 2 (M)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/26815
-
-#EXTINF:-1,DEPORTES: MEX Fox Sports 2 (M)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1521
-
-#EXTINF:-1,DEPORTES: MEX Fox Sports 3 (M)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/26812
-
-#EXTINF:-1,DEPORTES: MEX Fox Sports 3 (M)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/26768
-
-#EXTINF:-1,DEPORTES: MEX Fox Sports 3 (M)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1523
-
-#EXTINF:-1,DEPORTES: MEX Golf Latin (M)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/26813
-
-#EXTINF:-1,DEPORTES: NBA U (M)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/2873
-
-#EXTINF:-1,DEPORTES: Sky Sports 16 (M)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/60372
-
-#EXTINF:-1,DEPORTES: Sky Sports 21 (M)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/60373
-
-#EXTINF:-1,DEPORTES: Tennis Channel (M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/23132
-
-#EXTINF:-1,DEPORTES: TUDN (MEX) (M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1549
-
-#EXTINF:-1,DEPORTES: TUDN (MEX)(TV)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/66005
-
-#EXTINF:-1,DEPORTES: TUDN (USA) (TV)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/66004
-
-#EXTINF:-1,DEPORTES: TUDN (USA)(M)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1548
-
-#EXTINF:-1,DEPORTES: TVC Deportes (M)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/1547
-
-#EXTINF:-1,DEPORTES: TyC Sports Int (M)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/27530
-
-#EXTINF:-1,DEPORTES: UFC Fight PASS (M)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/5699
+#EXTINF:-1 tvg-id="" tvg-name="ESPN ARG" tvg-logo="" group-title="PACK PREMIUM",ESPN ARG
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/80316
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 ARG" tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ESPN2/EXPORTACION_WEB/SS/ESPN2_t-290x163.png" group-title="PACK PREMIUM",ESPN 2 ARG
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/80317
+#EXTINF:-1 tvg-id="" tvg-name="BEIN LA LIGA FÚTBOL ESPAÑOL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bein_sports_espana.png" group-title="PACK FUTBOL TODAS LAS LIGAS",BEIN LA LIGA FÚTBOL ESPAÑOL
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72498
+#EXTINF:-1 tvg-id="" tvg-name="CABLE ONDA SPORTS  FC FUTBOL DE PANAMA" tvg-logo="https://www.cableondasports.com/site/assets/files/others/2018/02/28/MEDGEN/1085/cos-fc-cableondasports.226x90.jpg" group-title="PACK FUTBOL TODAS LAS LIGAS",CABLE ONDA SPORTS  FC FUTBOL DE PANAMA
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72753
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PREMIERE FUTBOL BRASILERO" tvg-logo="https://img2.freepng.es/20180606/bkr/kisspng-brazil-premiere-television-channel-sportv-fc2-5b185fdb078ed6.291088691528324059031.jpg" group-title="PACK FUTBOL TODAS LAS LIGAS",CANAL PREMIERE FUTBOL BRASILERO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72749
+#EXTINF:-1 tvg-id="" tvg-name="CDF FUTBOL CHILENO" tvg-logo="https://lisa.zapping.live/uploads/canales/color/cdfhd.jpg" group-title="PACK FUTBOL TODAS LAS LIGAS",CDF FUTBOL CHILENO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72747
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_premium_argentina.png" group-title="PACK FUTBOL TODAS LAS LIGAS",FOX SPORTS PREMIUM
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79961
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_premium_argentina.png" group-title="PACK FUTBOL TODAS LAS LIGAS",FOX SPORTS PREMIUM HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79962
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV PERU FUTBOL PERUANO" tvg-logo="https://www.ver-futbol-online.com/golperu.png" group-title="PACK FUTBOL TODAS LAS LIGAS",GOL TV PERU FUTBOL PERUANO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72745
+#EXTINF:-1 tvg-id="" tvg-name="SKY PREMIER FUTBOL INGLES" tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png" group-title="PACK FUTBOL TODAS LAS LIGAS",SKY PREMIER FUTBOL INGLES
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72751
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV FUTBOL BRASILERO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/692px-SporTV_2017_logo.svg.png" group-title="PACK FUTBOL TODAS LAS LIGAS",SPORTV FUTBOL BRASILERO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72750
+#EXTINF:-1 tvg-id="" tvg-name="TD+ FUTBOL COSTA RICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/1200px-TD_M%C3%A1s_Logo.png" group-title="PACK FUTBOL TODAS LAS LIGAS",TD+ FUTBOL COSTA RICA
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72752
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS FUTBOL BOLIVIANO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports.png" group-title="PACK FUTBOL TODAS LAS LIGAS",TIGO SPORTS FUTBOL BOLIVIANO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72746
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS FÚTBOL PARAGUAYO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports.png" group-title="PACK FUTBOL TODAS LAS LIGAS",TIGO SPORTS FÚTBOL PARAGUAYO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72499
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS ARG" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports.png" group-title="PACK FUTBOL TODAS LAS LIGAS",TNT SPORTS ARG
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/8661
+#EXTINF:-1 tvg-id="I603.106780.schedulesdirect.org" tvg-name="TNT SPORTS FUTBOL ARGENTINO" tvg-logo="https://cablevisionflow.com.ar/assets/img/contenidos/grilla-flow/tnt-sports.png" group-title="PACK FUTBOL TODAS LAS LIGAS",TNT SPORTS FUTBOL ARGENTINO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/27624
+#EXTINF:-1 tvg-id="" tvg-name="TUDN FUTBOL MEXICANO" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-tudn.jpg" group-title="PACK FUTBOL TODAS LAS LIGAS",TUDN FUTBOL MEXICANO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72743
+#EXTINF:-1 tvg-id="I100.16275.schedulesdirect.org" tvg-name="TYC SPORTS FUTBOL ARGENTINO" tvg-logo="https://cablevisionflow.com.ar/assets/img/contenidos/grilla-flow/TyC-Sports.png" group-title="PACK FUTBOL TODAS LAS LIGAS",TYC SPORTS FUTBOL ARGENTINO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/27631
+#EXTINF:-1 tvg-id="" tvg-name="VTV FUTBOL URUGUAYO" tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/184.png" group-title="PACK FUTBOL TODAS LAS LIGAS",VTV FUTBOL URUGUAYO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72748
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS FUTBOL COLOMBIANO" tvg-logo="https://www.winsports.co/assets/img/win/winsports-small_2017.png" group-title="PACK FUTBOL TODAS LAS LIGAS",WIN SPORTS FUTBOL COLOMBIANO
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72744
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tbs_paraguay.png" group-title="SERIES Y ENTRETENIMIENTO",TBS HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/72834
+#EXTINF:-1 tvg-id="" tvg-name="AYM SPORT" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports.png" group-title="DEPORTIVOS",AYM SPORT
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/412
+#EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/barca_tv.png" group-title="DEPORTIVOS",BARCA TV
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/429
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS LA LIGA HD" tvg-logo="https://assets.beinsports.com/3.2.8/images/logo-header__en.svg" group-title="DEPORTIVOS",BEIN SPORTS LA LIGA HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/2902
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS Ñ HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bein_sport_en_espanol.png" group-title="DEPORTIVOS",BEIN SPORTS Ñ HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/469
+#EXTINF:-1 tvg-id="" tvg-name="CDF BASICO CHILE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_basico.png" group-title="DEPORTIVOS",CDF BASICO CHILE
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/430
+#EXTINF:-1 tvg-id="" tvg-name="CDF PREMIUM CHILE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cdf_premium.png" group-title="DEPORTIVOS",CDF PREMIUM CHILE
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/431
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORT HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports_hd.png" group-title="DEPORTIVOS",CLARO SPORT HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/460
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports_hd.png" group-title="DEPORTIVOS",CLARO SPORTS
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/414
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV PLUS" tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/613.png" group-title="DEPORTIVOS",DIRECTV PLUS
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/433
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV PLUS HD" tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/613.png" group-title="DEPORTIVOS",DIRECTV PLUS HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/475
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1" tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/610.png" group-title="DEPORTIVOS",DIRECTV SPORTS 1
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/432
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/612.png" group-title="DEPORTIVOS",DIRECTV SPORTS 2
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/434
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 HD" tvg-logo="" group-title="DEPORTIVOS",DIRECTV SPORTS 2 HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/477
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_republica_dominicana.png" group-title="DEPORTIVOS",ESPN 2 HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/480
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_republica_dominicana.png" group-title="DEPORTIVOS",ESPN 3 HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/481
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_ecuador.png" group-title="DEPORTIVOS",ESPN HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/479
+#EXTINF:-1 tvg-id="I62.108370.schedulesdirect.org" tvg-name="EUROSPORT 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/eurosport_2_espana.png" group-title="DEPORTIVOS",EUROSPORT 2
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/435
+#EXTINF:-1 tvg-id="I57.102938.schedulesdirect.org" tvg-name="FORMULA 1  HD MOVISTAR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png" group-title="DEPORTIVOS",FORMULA 1  HD MOVISTAR
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/778
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 1 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports.png" group-title="DEPORTIVOS",FOX SPORT 1 HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/484
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 2 HD" tvg-logo="" group-title="DEPORTIVOS",FOX SPORT 2 HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/485
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 3 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3.png" group-title="DEPORTIVOS",FOX SPORT 3 HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/486
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV USA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/goltv_latinoamerica.png" group-title="DEPORTIVOS",GOL TV USA
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/437
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/goltv_latinoamerica.png" group-title="DEPORTIVOS",GOL TV ECUADOR
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/438
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos.png" group-title="DEPORTIVOS",GOL TV ECUADOR HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/491
+#EXTINF:-1 tvg-id="I63.91279.schedulesdirect.org" tvg-name="GOL TV ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/GOL.png" group-title="DEPORTIVOS",GOL TV ESPAÑA
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/439
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV INTERNACIONAL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/goltv_latinoamerica.png" group-title="DEPORTIVOS",GOL TV INTERNACIONAL
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/440
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV INTERNACIONAL HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos.png" group-title="DEPORTIVOS",GOL TV INTERNACIONAL HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/492
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV PERU" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/goltv_latinoamerica.png" group-title="DEPORTIVOS",GOL TV PERU
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/441
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV USA HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos.png" group-title="DEPORTIVOS",GOL TV USA HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/494
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golf_channel.png" group-title="DEPORTIVOS",GOLF CHANNEL
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/436
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR HD" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="DEPORTIVOS",LA LIGA TV BAR HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/490
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HD BAR" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="DEPORTIVOS",LA LIGA TV HD BAR
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/502
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png" group-title="DEPORTIVOS",MOVISTAR DEPORTES
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/503
+#EXTINF:-1 tvg-id="I57.102938.schedulesdirect.org" tvg-name="MOVISTAR FORMULA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png" group-title="DEPORTIVOS",MOVISTAR FORMULA 1 HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/497
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="MOVISTAR LA LIGA DE CAMPEONES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAUHD.png" group-title="DEPORTIVOS",MOVISTAR LA LIGA DE CAMPEONES FHD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/495
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA  BAR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="DEPORTIVOS",MOVISTAR LIGA  BAR
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/501
+#EXTINF:-1 tvg-id="" tvg-name="PPV NBA" tvg-logo="https://irp-cdn.multiscreensite.com/c5a09bd2/dms3rep/multi/Screen+Shot+2019-03-10+at+9.55.12+PM.png" group-title="DEPORTIVOS",PPV NBA
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/516
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/real_madrid_tv.png" group-title="DEPORTIVOS",REAL MADRID TV
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/444
+#EXTINF:-1 tvg-id="I64.91225.schedulesdirect.org" tvg-name="TELEDEPORTE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/TDEP.png" group-title="DEPORTIVOS",TELEDEPORTE HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/496
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 1 HD (BOLIVIA)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports.png" group-title="DEPORTIVOS",TIGO SPORTS 1 HD (BOLIVIA)
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/505
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 1 SD (BOLIVIA)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports_el_salvador.png" group-title="DEPORTIVOS",TIGO SPORTS 1 SD (BOLIVIA)
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/447
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 2 HD (BOLIVIA)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports.png" group-title="DEPORTIVOS",TIGO SPORTS 2 HD (BOLIVIA)
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/506
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 2 PARAGUAY" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports.png" group-title="DEPORTIVOS",TIGO SPORTS 2 PARAGUAY
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/507
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 2 SD (BOLIVIA)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports_el_salvador.png" group-title="DEPORTIVOS",TIGO SPORTS 2 SD (BOLIVIA)
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/448
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 3 SD (BOLIVIA)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports_el_salvador.png" group-title="DEPORTIVOS",TIGO SPORTS 3 SD (BOLIVIA)
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/449
+#EXTINF:-1 tvg-id="" tvg-name="TVCD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvc_deportes_hd.png" group-title="DEPORTIVOS",TVCD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/427
+#EXTINF:-1 tvg-id="" tvg-name="Univision TDN HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tdn_2_0.png" group-title="DEPORTIVOS",Univision TDN HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/467
+#EXTINF:-1 tvg-id="" tvg-name="VTV HD URUGUAY" tvg-logo="" group-title="DEPORTIVOS",VTV HD URUGUAY
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/508
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS COLOMBIA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/win_sports.png" group-title="DEPORTIVOS",WIN SPORTS COLOMBIA
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/451
+#EXTINF:-1 tvg-id="amc.co" tvg-name="UFC Fight Pass" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="DEPORTIVOS",UFC Fight Pass
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/24942
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="" group-title="DEPORTIVOS",NBA TV HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/510
+#EXTINF:-1 tvg-id="" tvg-name="NFL NETWORK HD" tvg-logo="" group-title="DEPORTIVOS",NFL NETWORK HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/513
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL HD" tvg-logo="https://image.roku.com/developer_channels/prod/ce031a6dcde37961290d307f332be0bbf79add1b65ce32ba1dd32208d4a713b6.png" group-title="DEPORTIVOS",TENNIS CHANNEL HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/514
+#EXTINF:-1 tvg-id="" tvg-name="UFC LIVE HD" tvg-logo="" group-title="DEPORTIVOS",UFC LIVE HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/515
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD" tvg-logo="" group-title="DEPORTIVOS",COMBATE HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/811
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2_hd.png" group-title="DEPORTIVOS",FOX SPORTS 2 HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/814
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports.png" group-title="DEPORTIVOS",FOX SPORTS HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/815
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD" tvg-logo="" group-title="DEPORTIVOS",ESPN BRASIL HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/812
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD" tvg-logo="" group-title="DEPORTIVOS",PREMIERE 4 HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/817
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 HD" tvg-logo="" group-title="DEPORTIVOS",PREMIERE 5 HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/818
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD" tvg-logo="" group-title="DEPORTIVOS",SPORTV 2 HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/821
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBE HD" tvg-logo="" group-title="DEPORTIVOS",PREMIERE CLUBE HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/820
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV HD" tvg-logo="" group-title="DEPORTIVOS",SPORTV HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/823
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="TOROS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CFERIA.png" group-title="DEPORTIVOS",TOROS HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/1207
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GOLF " tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golf_channel.png" group-title="DEPORTIVOS",CANAL GOLF 
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/1407
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS PLUS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/win_sports.png" group-title="DEPORTIVOS",WIN SPORTS PLUS
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/8704
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV USA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos.png" group-title="DEPORTIVOS",GOL TV USA
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/1417
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES PERU" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png" group-title="DEPORTIVOS",MOVISTAR DEPORTES PERU
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/1410
+#EXTINF:-1 tvg-id="" tvg-name="CDO PREMIUM HD" tvg-logo="https://www.nicepng.com/png/detail/419-4196216_cdo-premium-canal-cdo.png" group-title="DEPORTIVOS",CDO PREMIUM HD
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/40794
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/8802_1.png" group-title="DEPORTIVOS",ESPN DEPORTES
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56347
+#EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES" tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/8803_1.png" group-title="DEPORTIVOS",FOX DEPORTES
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56348
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/8806_1.png" group-title="DEPORTIVOS",WIN SPORTS
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56351
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/8807_1.png" group-title="DEPORTIVOS",TELEDEPORTE
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56352
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV PERU" tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/8810_1.png" group-title="DEPORTIVOS",GOL TV PERU
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56354
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT" tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/8817_1.png" group-title="DEPORTIVOS",EUROSPORT
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56355
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV EUROPA" tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/8831_1.png" group-title="DEPORTIVOS",GOL TV EUROPA
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56356
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID" tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/8840_1.png" group-title="DEPORTIVOS",REAL MADRID
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/56362
+#EXTINF:-1 tvg-id="" tvg-name="TYC Sport HD INTERNACIONAL" tvg-logo="" group-title="DEPORTIVOS",TYC Sport HD INTERNACIONAL
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/504
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV  SPORTS CHILE" tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/610.png" group-title="CHILE",DIRECTV  SPORTS CHILE
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/810
+#EXTINF:-1 tvg-id="" tvg-name="EC: DIRECTV SPORTS" tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/610.png" group-title="ECUADOR",EC: DIRECTV SPORTS
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/18311
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 CHILE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2.png" group-title="DEPORTIVOS",ESPN 2 CHILE
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79963
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS CHILE" tvg-logo="https://i2.wp.com/www.ecuapaginas.com/wp-content/uploads/2019/10/directv-sports.jpg?fit=1280%2C720&ssl=1" group-title="DEPORTIVOS",DIRECTV SPORTS CHILE
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79964
