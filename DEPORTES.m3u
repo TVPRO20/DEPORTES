@@ -67,10 +67,6 @@ http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/608
 http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/26135
 #EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 ⁽ᴹ⁾
 http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54124
-
-
-#EXTINF:-1 tvg-id="" tvg-name="EUROPA EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA EUROPA
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/51475
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="https://f0.pngfuel.com/png/706/926/eurosport-2-logo-television-eurosport-1-eurosport-hd-png-clip-art.png" group-title="DEPORTES",EUROSPORT 1
 http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/25039
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Eurosport_2.svg/640px-Eurosport_2.svg.png" group-title="DEPORTES",EUROSPORT 2 ⁽ᵃ⁾
@@ -161,10 +157,6 @@ http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/608
 http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/26135
 #EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 ⁽ᴹ⁾
 http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54124
-
-
-#EXTINF:-1 tvg-id="" tvg-name="EUROPA EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA EUROPA
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/51475
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="https://f0.pngfuel.com/png/706/926/eurosport-2-logo-television-eurosport-1-eurosport-hd-png-clip-art.png" group-title="DEPORTES",EUROSPORT 1
 http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/25039
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Eurosport_2.svg/640px-Eurosport_2.svg.png" group-title="DEPORTES",EUROSPORT 2 ⁽ᵃ⁾
