@@ -189,3 +189,19 @@ http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1165
 #EXTINF:-1 tvg-id="" tvg-name="RED BULL" tvg-logo="https://www.logopik.com/wp-content/uploads/edd/2018/10/Sport-Vector-Logo-Dewonload-free-226x226.png" group-title="DEPORTES",RED BULL
 http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/10909
 
+
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP US: PPV 1 Live Event HD" tvg-logo="" group-title="Live: USA",VIP US: PPV 1 Live Event HD
+http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/30980
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP US: PPV 2 Live Event HD" tvg-logo="" group-title="Live: USA",VIP US: PPV 2 Live Event HD
+http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/30979
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP US: PPV 3 Live Event HD" tvg-logo="" group-title="Live: USA",VIP US: PPV 3 Live Event HD
+http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/30978
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP US: PPV 4 Live Event HD" tvg-logo="" group-title="Live: USA",VIP US: PPV 4 Live Event HD
+http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/30977
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP US: PPV 5 Live Event HD" tvg-logo="" group-title="Live: USA",VIP US: PPV 5 Live Event HD
+http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/30976
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP US: UFC Fight Pass FHD" tvg-logo="[" group-title="Live: USA",VIP US: UFC Fight Pass FHD
+http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/27971
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP US: UFC Fight Pass Live Only" tvg-logo="" group-title="Live: USA",VIP US: UFC Fight Pass Live Only
+http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34745
