@@ -371,6 +371,70 @@ https://a.jsrdn.com/broadcast/20dc4269f3/+0000/low/c.m3u8
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/low/c.m3u8 
 #EXTINF:-1, tvg-name="TV SPORTS" tvg-logo="-" group-title="DEPORTES", TV SPORTS 
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1, PPV-NBA League Pass 1 (PM)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67034
+#EXTINF:-1, PPV-NBA League Pass 1 (PM)(SD)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67035
+#EXTINF:-1, PPV-NBA League Pass 2 (PM)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/69246
+#EXTINF:-1, PPV-NBA League Pass 2 (PM)(SD)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/69247
+#EXTINF:-1,24/7 DBZ: Saga Majin Boo (PM)(4k)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67216
+#EXTINF:-1,24/7 Estrenos 4k (PM)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67215
+#EXTINF:-1,24/7 Estrenos 2020 (e)(1080)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/55628
+#EXTINF:-1,USA: NBA PASS: Toronto Raptors HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67046
+#EXTINF:-1,USA: NBA PASS: San Antonio Spurts HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67047
+#EXTINF:-1,USA: NBA PASS: Sacramento Kings HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67048
+#EXTINF:-1,USA: NBA PASS: Portland Trail Blazer HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67049
+#EXTINF:-1,USA: NBA PASS: Phoenix Suns HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67050
+#EXTINF:-1,USA: NBA PASS: Milwaukee Bucks HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67051
+#EXTINF:-1,USA: NBA PASS: Denver Nuggets HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67052
+#EXTINF:-1,USA: NBA PASS: DALLAS MAVERICK HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67053
+#EXTINF:-1,USA: NBA PASS: Cleveland Cavaliers HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67054
+#EXTINF:-1,USA: NBA PASS: Chicago Bulls HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67055
+#EXTINF:-1,USA: NBA PASS: Brooklin Nets HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67056
+#EXTINF:-1,USA: NBA PASS: Menphis Grizzlies HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67057
+#EXTINF:-1,USA: NBA PASS: Los Angeles Lakers HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67058
+#EXTINF:-1,USA: NBA PASS: Los Angeles Clippers HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67059
+#EXTINF:-1,USA: NBA PASS: Indiana Pacers HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67060
+#EXTINF:-1,USA: NBA PASS: Houston Rockets HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67061
+#EXTINF:-1,USA: NBA PASS: Detroid Pisons HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67062
+#EXTINF:-1,USA: NBA PASS: Orlando Magic HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67063
+#EXTINF:-1,USA: NBA PASS: Miami Heat HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67064
+#EXTINF:-1,USA: NBA PASS: Golden State HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67065
+#EXTINF:-1,USA: NBA PASS: Jazz Utah HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67066
+#EXTINF:-1,USA: NBA TV
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67045
+#EXTINF:-1,PPV 1 DAZN (tr)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/66917
+#EXTINF:-1,PPV 3 DAZN (tr)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/66919
+#EXTINF:-1,PPV 4 DAZN (M)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/66920
 
 
 
