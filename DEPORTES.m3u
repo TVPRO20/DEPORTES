@@ -65,31 +65,45 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 
 
 
-#EXTINF:0 tvg-logo="https://www.cwpanama.com/images/contents/promotions/1547473907630.jpg" group-title="Deportes",Adrenalina Sports
-https://tinyurl.com/yymq8lpt
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Deportes",AEW Wrestling
-https://tinyurl.com/y3tfqf2a
-#EXTINF:0 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="Deportes",Afizzionados
-https://tinyurl.com/y6bmjgce
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" group-title="Deportes",Bein Sports En Español
-https://tinyurl.com/y2tfh7ux
-#EXTINF:0 tvg-logo="https://i.ibb.co/Gtw83rB/ESPN1.png" group-title="Deportes",ESPN Deportes
-https://tinyurl.com/y3xqz33f
-#EXTINF:0 tvg-logo="https://i.ibb.co/LDK9HxR/Fox-Sports1.png" group-title="Deportes",FOX Central
-https://tinyurl.com/y4bnl38u
-#EXTINF:0 tvg-logo="https://marcadegol.com/fotos/2011/01/goltv.jpg" group-title="Deportes",Gol TV
-https://tinyurl.com/yyewqb88
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Deportes",Lucha Libre AAA
-https://tinyurl.com/y5sl4phx
-#EXTINF:0 tvg-logo="0" group-title="Deportes",Movistar Formula 1
-0
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_%282016-_%29.png/revision/latest/scale-to-width-down/340?cb=20160715002304&path-prefix=es" group-title="Deportes",TVC Deportes
-https://tinyurl.com/y4n7y8ur
-#EXTINF:0 tvg-logo="https://static-s.aa-cdn.net/img/ios/353665650/a60a82ec6428db103f79becae243344d" group-title="Deportes",Univision TUDN
-https://tinyurl.com/yy6g5x7y
-#EXTINF:0 tvg-logo="https://i.ibb.co/RS7hRpM/VibeTV.png" group-title="Deportes",Vibe TV
-https://tinyurl.com/y2d5pwym
-
+  
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13T6TCj9/Alberto-del-R-o-vs-Rey-Mysterio.png" group-title="WWE", Alberto del Río vs Rey Mysterio Raw
+https://ia801407.us.archive.org/15/items/alberto-del-rio-vs-rey-mysterio-720-p-hd/Alberto%20del%20R%C3%ADo%20vs%20Rey%20Mysterio%20-%28720P_HD%29.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yY4Gqj2y/20-Man-Battle-Royale.png" group-title="WWE",20 Man Battle Royale Raw
+https://ia601501.us.archive.org/6/items/20-man-battle-royal-1-contenter-m-720-p-hd/20%20Man%20Battle%20Royal%20_1%20Contenter%20M%28720P_HD%29.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCXT874r/Jhon-Cena-vs-Dolph-Ziggler.png" group-title="WWE",Jhon Cena vs Dolph Ziggler Raw
+https://ia601400.us.archive.org/18/items/john-cena-vs-dolph-ziggler-raw-l-720-p-hd/John%20Cena%20vs%20Dolph%20Ziggler%20_%20Raw%20L%28720P_HD%29.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k5jNCDQ/92-BDKf4x7-Va-MTrx-V34ep8voh-B4-L.jpg" group-title="WWE",Nail in the Coffin The Fall and Rise of Vampiro (2020)[Eng]
+https://archive.org/download/vampiro_202101/Nail%20in%20the%20Coffin%20The%20Fall%20and%20Rise%20of%20Vampiro%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/mcho1/mcho1.jpg" group-title="WWE",Randy Savage Story dvd
+https://archive.org/download/mcho1/mcho1.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7FLscKF/The-Undertaker-vs-Edge.png" group-title="WWE",The Undertaker vs Edge WrestleMania
+https://ia601401.us.archive.org/4/items/the-undertaker-vs.-edge-world-he-720-p-hd/The%20Undertaker%20vs.%20Edge%20%E2%80%93%20World%20He%28720P_HD%29.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91TumbsnQaL._AC_SL1500_.jpg" group-title="WWE",Ultimate Warrior Always Believe dvd
+https://archive.org/download/warbel1/warbel1.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FznMtkkk/WWE-Monday-Night-Raw.png" group-title="WWE",WWE Monday Night Raw
+https://ia801406.us.archive.org/9/items/wwe-monday-night-raw-720-p-hd/WWE%20Monday%20Night%20Raw%20%28720P_HD%29.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RDtQtCG/zamarripa54.png" group-title="WWE",WWE Smackdown Undertaker
+http://mlsh1.com:2086/movie/Gemma/gemma123/65763.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjdh8mcg/zamarripa54.png" group-title="WWE",WWE SummerSlam
+http://mlsh1.com:2086/movie/Gemma/gemma123/69111.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr32vNn6/zamarripa54.png" group-title="WWE",WWE WrestleMania 35
+http://mlsh1.com:2086/movie/Gemma/gemma123/65764.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zdPxzWB/zamarripa54.png" group-title="Nascar",NASCAR 500
+http://mlsh1.com:2086/movie/Gemma/gemma123/13017.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCC1CZ3F/zamarripa54.png" group-title="Nascar",NASCAR SHIP
+http://mlsh1.com:2086/movie/Gemma/gemma123/13047.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4gLWzXH/zamarripa54.png" group-title="Nascar",ONE CHAMPIONSHIP
+http://mlsh1.com:2086/movie/Gemma/gemma123/23621.mp4
+#EXTM3U
+#EXTINF:1, tvg-id="1" tvg-logo="https://i.ibb.co/wJWB4JN/wwe1.jpg",WWE ELIMINATION CHAMBER 2021
+https://dl.dropbox.com/s/xtzbr75u829mg2b/WWE%20ELIMINATION%20CHAMBER%202021.m3u
+ 
+#EXTINF:1, tvg-id="1" tvg-logo="https://archive.org/download/poster-ww/poster%20nascar.png",Nascar
+https://dl.dropbox.com/s/7eobi5tp42ozrhm/N4SC4R.M3U
+ 
+#EXTINF:1, tvg-id="1" tvg-logo="https://archive.org/download/poster-ww/poster%20ww.png",WWE
+https://dl.dropbox.com/s/6pnf9pap9fqb1py/WW3.M3U
 
 
 
