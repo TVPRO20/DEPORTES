@@ -359,3 +359,99 @@ http://51.222.105.31:8080/live/dki5Wg9hZ5/UkRK8I8teV/150674.m3u8
 http://51.222.105.31:8080/live/dki5Wg9hZ5/UkRK8I8teV/150677.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EVENTOS | Fox Sport 2 (Solo Eventos)" tvg-logo="http://51.222.105.31:8080/images/4e9852c50f8cce6c40aa394d50872458.jpg" group-title="**Eventos Deportivos Locales**",EVENTOS | Fox Sport 2 (Solo Eventos)
 http://51.222.105.31:8080/live/dki5Wg9hZ5/UkRK8I8teV/67349.m3u8
+
+
+
+
+
+#EXTINF:0 tvg-id="Eurocopa" tvg-logo="https://www.milenio.com/uploads/media/2016/09/21/logotipo-de-la-eurocopa.jpeg" group-title="DEPORTES",Eurocopa 2021
+https://m3u-editor.com/serve/rokumaniaiptv/297733882
+#EXTINF:0 tvg-id="Copa America" tvg-logo="https://assets-production.applicaster.com/static/copa_america/images/CA21-vertical-logo.png" group-title="DEPORTES",Copa America 2021
+https://e3.cdnfoxtv.com/ingest03/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=CQezQAGBVlzRn8OaaF2m2g&expires=1622177032&rnd=
+#EXTINF:0 tvg-id="Copa Oro" tvg-logo="https://futbol.aquitodito.com/wp-content/uploads/2019/06/CPO2.jpg" group-title="DEPORTES",Copa Oro 2021
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8?SBN
+#EXTINF:0 tvg-id="Deportes 1" tvg-logo="https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg" group-title="DEPORTES",Eventos Deportivos mix
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:0 tvg-logo="https://www.davidstreams.com/wp-content/uploads/2015/08/el-tenis.jpg" group-title="DEPORTES",Evento Historico
+https://playoutengine.sinclair.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg" group-title="DEPORTES",Evento 1
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg" group-title="DEPORTES",Evento 2
+https://playoutengine.sinclairstoryline.com:443/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg" group-title="DEPORTES",Evento 3
+https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg" group-title="DEPORTES",Evento 4
+https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg" group-title="DEPORTES",Evento 5
+https://playoutengine.sinclairstoryline.com:443/playout/735dea87-2128-40b7-8eaa-4252092c6dae/g.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg" group-title="DEPORTES",Evento 6
+https://playoutengine.sinclairstoryline.com:443/playout/c05b21c0-e574-4b34-a26e-c6637dbd0fa5/g.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg" group-title="DEPORTES",Evento 7
+https://playoutengine.sinclairstoryline.com:443/playout/febfc709-d9a5-4caa-ab73-1cce0e4bc6e9/g.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg" group-title="DEPORTES",Evento 8
+https://playoutengine.sinclairstoryline.com/playout/b287bd53-b70f-4b04-9096-10a5b5ba9d29/g.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 2
+https://gma2.blab.email/espn2.m3u8?SBN
+
+#EXTINF:0 group-title="DEPORTES",ESPN 3
+https://gma2.blab.email/espn3.m3u8?SBN
+
+#EXTINF:0 group-title="DEPORTES",F1
+http://164.68.124.111/fs1.m3u8
+
+#EXTINF:0 group-title="DEPORTES",F1
+http://acvlzxxmvr.chickenkiller.com/fs1.m3u8
+
+#EXTINF:0 group-title="DEPORTES",F2
+http://164.68.124.111/fs2.m3u8
+
+#EXTINF:0 group-title="DEPORTES",F2
+http://acvlzxxmvr.chickenkiller.com/fs2.m3u8
+
+#EXTINF:0 group-title="DEPORTES",Fox Sport
+http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8?SBN
+
+#EXTINF:0 group-title="DEPORTES",M.LIGA.CAMPEONES HD
+http://212.224.98.213:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=RED_rOEySpRwcHBUZzNjM3Ohfg%3D%3D%2C1622868670.2903705673?SBN
+
+#EXTINF:0 group-title="DEPORTES",SKY Sport
+http://31.220.41.90:8081/live/skysports-maineventz.stream/playlist.m3u8
+
+#EXTINF:0 group-title="DEPORTES",Tele Futuro
+https://cdn.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4.m3u8
+
+#EXTINF:0 group-title="DEPORTES",TNT
+http://g.givemenbastreams.com/hls/tnt/playlist.m3u8
+
+#EXTINF:0 group-title="DEPORTES",TNT
+http://31.220.41.87:8081/live/us-tnt.stream/chunks.m3u8
+
+#EXTINF:0 group-title="DEPORTES",TIGO SPORT
+https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8?SBN
+
+#EXTINF:0 group-title="DEPORTES",Unknown 01
+http://g.givemenbastreams.com:80/hls/tnt/chunks.m3u8?SBN
+
+#EXTINF:0 group-title="DEPORTES",Unknown 11
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8?SBN
+
+#EXTINF:0 group-title="DEPORTES",Unknown 13
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES",Unknown 16
+https://95-213-224-185.livesports24.online/rumatcharena.m3u8?SBN
+
+#EXTINF:0 group-title="DEPORTES",Unknown 35
+http://45.94.149.154:8000/play/a04w
+
+#EXTINF:0 group-title="DEPORTES",Unknown 38
+https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
+
+#EXTINF:0 group-title="DEPORTES",Unknown 52
+http://77.247.109.111/hls/A1.m3u8?SBN
+
+#EXTINF:0 group-title="DEPORTES",MCAMPEONES 1
+https://d108h32trr4h8c.cloudfront.net/out/v1/d543fa4ff337450db0e38fcc19705c21/index_6.m3u8
+
+#EXTINF:0 group-title="DEPORTES",Unknown 62
+http://185.180.15.14:2200/NL/mlcampeon1hd-esp/index.m3u8?token=thejoelc
