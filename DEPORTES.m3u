@@ -1,5 +1,3 @@
-#EXTM3U
-
 #EXTINF:0 tvg-id="Eurocopa" tvg-logo="https://www.milenio.com/uploads/media/2016/09/21/logotipo-de-la-eurocopa.jpeg" group-title="DEPORTES",Eurocopa 2021
 https://m3u-editor.com/serve/rokumaniaiptv/297733882
 #EXTINF:0 tvg-id="Copa America" tvg-logo="https://assets-production.applicaster.com/static/copa_america/images/CA21-vertical-logo.png" group-title="DEPORTES",Copa America 2021
@@ -26,68 +24,53 @@ https://playoutengine.sinclairstoryline.com:443/playout/c05b21c0-e574-4b34-a26e-
 https://playoutengine.sinclairstoryline.com:443/playout/febfc709-d9a5-4caa-ab73-1cce0e4bc6e9/g.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg" group-title="DEPORTES",Evento 8
 https://playoutengine.sinclairstoryline.com/playout/b287bd53-b70f-4b04-9096-10a5b5ba9d29/g.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 2
+#EXTINF:-1,ESPN NORTE
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8?SBN
+#EXTINF:-1,ESPN NORTE
+https://gma2.blab.email/espn.m3u8?SBN
+#EXTINF:-1,ESPN 2 NORTE
 https://gma2.blab.email/espn2.m3u8?SBN
-
-#EXTINF:0 group-title="DEPORTES",ESPN 3
+#EXTINF:-1,ESPN 3 NORTE
 https://gma2.blab.email/espn3.m3u8?SBN
-
-#EXTINF:0 group-title="DEPORTES",F1
+#EXTINF:-1,F1 NORTE
 http://164.68.124.111/fs1.m3u8
-
-#EXTINF:0 group-title="DEPORTES",F1
+#EXTINF:-1,F1 NORTE
 http://acvlzxxmvr.chickenkiller.com/fs1.m3u8
-
-#EXTINF:0 group-title="DEPORTES",F2
+#EXTINF:-1,F2 NORTE
 http://164.68.124.111/fs2.m3u8
-
-#EXTINF:0 group-title="DEPORTES",F2
+#EXTINF:-1,F2 NORTE
 http://acvlzxxmvr.chickenkiller.com/fs2.m3u8
-
-#EXTINF:0 group-title="DEPORTES",Fox Sport
+#EXTINF:-1,Fox Sport Norte
 http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8?SBN
-
-#EXTINF:0 group-title="DEPORTES",M.LIGA.CAMPEONES HD
+#EXTINF:-1,M.LIGA.CAMPEONES
+http://185.180.15.14:2200/NL/mlcampeon1hd-esp/index.m3u8?token=thejoelc
+#EXTINF:-1,M.LIGA.CAMPEONES HD
 http://212.224.98.213:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=RED_rOEySpRwcHBUZzNjM3Ohfg%3D%3D%2C1622868670.2903705673?SBN
-
-#EXTINF:0 group-title="DEPORTES",SKY Sport
+#EXTINF:-1,SKY Sport
 http://31.220.41.90:8081/live/skysports-maineventz.stream/playlist.m3u8
-
-#EXTINF:0 group-title="DEPORTES",Tele Futuro
-https://cdn.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4.m3u8
-
-#EXTINF:0 group-title="DEPORTES",TNT
+#EXTINF:-1,TNT SPORT
 http://g.givemenbastreams.com/hls/tnt/playlist.m3u8
-
-#EXTINF:0 group-title="DEPORTES",TNT
-http://31.220.41.87:8081/live/us-tnt.stream/chunks.m3u8
-
-#EXTINF:0 group-title="DEPORTES",TIGO SPORT
-https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8?SBN
-
-#EXTINF:0 group-title="DEPORTES",Unknown 01
+#EXTINF:-1,TNT SPORT
 http://g.givemenbastreams.com:80/hls/tnt/chunks.m3u8?SBN
-
-#EXTINF:0 group-title="DEPORTES",Unknown 11
+#EXTINF:-1,TNT SPORT
+http://31.220.41.87:8081/live/us-tnt.stream/chunks.m3u8
+#EXTINF:-1,Unknown 11
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8?SBN
-
-#EXTINF:0 group-title="DEPORTES",Unknown 13
+#EXTINF:-1,Unknown 13
 http://210.210.155.35/uq2663/h/h05/index.m3u8
-
-#EXTINF:0 group-title="DEPORTES",Unknown 16
-https://95-213-224-185.livesports24.online/rumatcharena.m3u8?SBN
-
-#EXTINF:0 group-title="DEPORTES",Unknown 35
-http://45.94.149.154:8000/play/a04w
-
-#EXTINF:0 group-title="DEPORTES",Unknown 38
+#EXTINF:-1,Unknown 15
+http://23.237.78.54/live-1000/244/playlist.m3u8?SBN
+#EXTINF:-1,Unknown 19
+http://23.237.78.54/live-1000/263/playlist.m3u8?SBN
+#EXTINF:-1,Unknown 20
+http://23.237.78.54/live-1000/244/playlist.m3u8?SBN
+#EXTINF:-1,Unknown 38
 https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
-
-#EXTINF:0 group-title="DEPORTES",Unknown 52
-http://77.247.109.111/hls/A1.m3u8?SBN
-
-#EXTINF:0 group-title="DEPORTES",MCAMPEONES 1
-https://d108h32trr4h8c.cloudfront.net/out/v1/d543fa4ff337450db0e38fcc19705c21/index_6.m3u8
-
-#EXTINF:0 group-title="DEPORTES",Unknown 62
-http://185.180.15.14:2200/NL/mlcampeon1hd-esp/index.m3u8?token=thejoelc
+#EXTINF:-1,Unknown 40
+http://23.237.78.54/live-1000/244/playlist.m3u8?SBN
+#EXTINF:-1,Unknown 45
+http://23.237.78.54/live-1000/263/playlist.m3u8?SBN
+#EXTINF:-1,Unknown 49
+http://23.237.78.54/live-1000/244/playlist.m3u8?SBN
+#EXTINF:-1,Unknown 56
+http://dimapro.cz:8080/live/00:1A:79:16:F9:93/ziajdjjfdifjd64646/38470.m3u8
